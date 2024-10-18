@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently **Software Developer**
 
 - 💬 Ask me about **Python, Django, Flask, ReactJS, MySQL**
 
